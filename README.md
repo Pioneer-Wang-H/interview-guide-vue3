@@ -11,6 +11,7 @@
 
 </div>
 
+> 本项目 fork 自 [Snailclimb/interview-guide](https://github.com/Snailclimb/interview-guide)，前端框架由 React 18 迁移至 Vue 3，其余功能保持一致。
 
 ---
 
