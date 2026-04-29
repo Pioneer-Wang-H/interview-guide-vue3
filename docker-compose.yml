@@ -149,6 +149,9 @@ services:
       # === Redis 连接 ===
       REDIS_HOST: redis
       REDIS_PORT: 6379
+
+      # === JPA 配置（覆盖 application.yml） ===
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
       
       # === 对象存储配置 ===
       # 注意：后端在容器内访问 MinIO，使用 http://minio:9000

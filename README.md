@@ -4,7 +4,7 @@
 
 [![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0-green?logo=springboot)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-18.3-blue?logo=react)](https://react.dev/)
+[![Vue](https://img.shields.io/badge/Vue-3.5-green?logo=vuedotjs)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-336791?logo=postgresql)](https://www.postgresql.org/)
 
@@ -78,14 +78,13 @@ InterviewGuide 是一个集成了简历分析、模拟面试和知识库管理�
 
 | 技术          | 版本  | 说明     |
 | ------------- | ----- | -------- |
-| React         | 18.3  | UI 框架  |
+| Vue 3          | 3.5    | UI 框架  |
 | TypeScript    | 5.6   | 开发语言 |
 | Vite          | 5.4   | 构建工具 |
 | Tailwind CSS  | 4.1   | 样式框架 |
-| React Router  | 7.11  | 路由管理 |
-| Framer Motion | 12.23 | 动画库   |
-| Recharts      | 3.6   | 图表库   |
-| Lucide React  | 0.468 | 图标库   |
+| Vue Router    | 4.5   | 路由管理 |
+| vue-chartjs   | 5.3   | 图表库   |
+| Lucide Vue    | 0.468 | 图标库   |
 
 ## 功能特性
 
